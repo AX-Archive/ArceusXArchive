@@ -1,1 +1,9 @@
-loadstring(game:HttpGet("https://protected-roblox-scripts.onrender.com/75e6578cd7cbebba6d92edb488397cb9"))()
+local StarterGui = game:GetService("StarterGui")
+
+StarterGui:SetCore("SendNotification", {
+    Title = "Update!",
+    Text = "Join Discord To Get New Link!, Tap Here!",
+    Duration = 10
+})
+
+setclipboard("https://discord.gg/PjznvHcGF9")
