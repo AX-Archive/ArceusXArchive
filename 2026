@@ -1,3 +1,3 @@
 pcall(function()
-    loadstring(game:HttpGet("https://api.junkie-development.de/api/v1/luascripts/public/99ddb48099c40da386f2f5f57adb441faa773468c8e24dc97dfa6987d29c4687/download"))()
+    loadstring(game:HttpGet("https://api.junkie-development.de/api/v1/luascripts/public/fdb52f2064846dc53c2406916e840d12e7b16cf89a93917f57ee7df48568e599/downloadwnload"))()
 end)
