@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/6612e118d01b7a9f48eaf880f72309f892779076e913ffd5f63dd7232b628a11/download"))()
+loadstring(game:HttpGet("https://protected-roblox-scripts.onrender.com/6a262a0a10c47ca9c76f33ae70740ff6"))()
